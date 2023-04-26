@@ -6,7 +6,7 @@ on:
     - sn32_master_openrgb
   pull_request:
     branches:
-    - sn32_master
+    - sn32_master_openrgb
 
 jobs:
   Build:
